@@ -21,6 +21,6 @@ public class FileReaderClass {
 }
 /*
  * it is used to read character data from the file
- * 
+ * by using file reader we can read data only character by character only 
  * 
  */
