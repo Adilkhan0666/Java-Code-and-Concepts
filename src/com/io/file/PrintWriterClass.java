@@ -30,4 +30,16 @@ public class PrintWriterClass {
  * over FR and BW is we can write any type of primitive data directly to the
  * file.
  * 
+ * write(100)=>d, print(100)=>100
+ * in case of write d will be o/p bcz it return char
+ * 
+ * for write => PrintWriter 
+ * for read => BufferedReader
+ * 
+ * 
+ * data
+------------
+1. Character data=>text data=>Reader or Writer required
+2. Binary data=>image,pdf,video,audio =>output stream(write) InputStream(Read)
+
  */
